@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Application - 2 tasks : URL call to solve a problem and analysis of a bet situation
 
 * *Author* : [Hugo Loos](hloos@outlook.com)
@@ -7,11 +6,11 @@
 * *Application Type* : Executable (JAR packaging)
 * *Summary* : Solve URL problem and analysis of bets.
 
-[Download the code from GitHub](https://github.com/hloos/urlCallsAnalysisCSV)
+[Download the code from GitHub](https://github.com/hloos/football-tasks)
 
 ## Purpose of this application
 
-This application is an ATM simulator. It is a n-tiers application focused on the back-end part.
+This application contains 2 parts: treatment of data from an Url call and analysis of data in a cvs. It is a n-tiers application focused on the back-end part.
 
 ## Architecture explanation
 
